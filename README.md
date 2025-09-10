@@ -1,12 +1,10 @@
-# TaskManager
-## Client - Claude Server, Server - Custom MCP
+# Weather and simple Task Manager
+## FastAPI (gemini) and custom MCP server
 
 In terminal:
-- uv init TaskManager
+- uv init weather
 - uv venv
 - ./.venv/Scripts/activate
-- uv add "mcp[client]" pandas openpyxl
-
-Create the MCP server code with tools
+- uv add "mcp[client]" pandas openpyxl fastapi google-genai
 
 
