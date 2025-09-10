@@ -35,10 +35,10 @@ edit the above config file with created MCP server
     }
   }
 }
- 
-
+``` 
 
 Close and open the claude desktop
+
 
 
 
