@@ -21,6 +21,7 @@ After the server is created, open the "claude_desktop_config.json" file by using
 - code $env:AppData\Claude\claude_desktop_config.json
 
 edit the above config file with created MCP server
+``` json
 {
   "mcpServers":{
     "weather":{
@@ -38,6 +39,7 @@ edit the above config file with created MCP server
 
 
 Close and open the claude desktop
+
 
 
 
