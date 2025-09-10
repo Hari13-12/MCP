@@ -5,6 +5,9 @@ In terminal:
 - uv init weather
 - uv venv
 - ./.venv/Scripts/activate
-- uv add "mcp[client]" pandas openpyxl fastapi google-genai
+- uv add "mcp[client]" pandas openpyxl google-genai
+
+
+
 
 
